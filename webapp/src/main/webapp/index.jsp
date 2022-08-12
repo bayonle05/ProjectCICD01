@@ -6,3 +6,9 @@
 <p1> Test if webook is working with push trigger. </p1>
 <p2> Add a new paragraph </p2>
 
+
+
+<h1> WELCOME TO DevOps TRAINING</h1>
+<h1> WELCOME TO TRAINING</h1>
+<h2> YOU SEE THIS BECAUSE YOU HAVE SUCCESSFULLY CONNECTED TO YOUR GITHUB ACCOUNT </h2>
+<p2> THANK YOU SO MUCH </p2>
